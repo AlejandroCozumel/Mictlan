@@ -593,6 +593,140 @@ footer{
     margin-left: 10.5rem;
 }
 
+.llorona{
+    background-image: url("images/llorona.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.felipe{
+    background-image: url("images/felipe.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.animas{
+    background-image: url("images/animas.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.xochitl{
+    background-image: url("images/xochitl.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.audio .pdf{
+    display: inline-flex;
+}
+
+.ofrenda{
+    background-image: url("images/1.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.gato{
+    background-image: url("images/2.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.papel{
+    background-image: url("images/3.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.ofrenda2{
+    background-image: url("images/4.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.esqueleto{
+    background-image: url("images/5.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
+.esqueleto2{
+    background-image: url("images/6.jpg");
+    width: 195px;
+    height: 180px;
+    color: white;
+    background-size: cover;
+    border: 2px solid gray;
+    cursor: pointer;
+    transition: 1s;
+    font: bold;
+    font-size: 20px;
+}
+
 /*Media queries*/
 @media screen and (min-width: 900px){
     section{
